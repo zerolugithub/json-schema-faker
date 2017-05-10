@@ -68,7 +68,7 @@
     "casual-cjs": "1.5.10",
     "chance": "1.0.4",
     "clone": "2.1.0",
-    "codecov": "1.0.1",
+    "codecov": "2.2.0",
     "faker": "4.1.0",
     "fs-extra": "1.0.0",
     "glob": "7.1.1",
